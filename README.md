@@ -35,12 +35,12 @@ You can use nginx\_app.conf and apache2_app.conf to add additional directives to
 
 ### Composer
 
-With composer.json, you can set a specific PHP runtime, and add PHP modules. See [https://devcenter.heroku.com/articles/php-support#php-runtimes](PHP runtimes) and [https://devcenter.heroku.com/articles/php-support#extensions](PHP extensions).
+With composer.json, you can set a specific PHP runtime, and add PHP modules. See [PHP runtimes](https://devcenter.heroku.com/articles/php-support#php-runtimes) and [PHP extensions](https://devcenter.heroku.com/articles/php-support#extensions).
 
 ### PHP Directives
 
-You can override php.ini variables in the file `www/.user.ini`. See [https://devcenter.heroku.com/articles/custom-php-settings#php-runtime-settings](PHP settings) and [http://php.net/manual/en/ini.list.php](PHP directives).
+You can override php.ini variables in the file `www/.user.ini`. See [PHP settings](https://devcenter.heroku.com/articles/custom-php-settings#php-runtime-settings] and [http://php.net/manual/en/ini.list.php).
 
 ### FPM
 
-To make changes to the FastCGI Process Manager, use the `fpm.conf` file. See [https://devcenter.heroku.com/articles/custom-php-settings#php-fpm-configuration-include](PHP-FPM configuration).
+To make changes to the FastCGI Process Manager, use the `fpm.conf` file. See [PHP-FPM configuration](https://devcenter.heroku.com/articles/custom-php-settings#php-fpm-configuration-include).
