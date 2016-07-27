@@ -35,7 +35,7 @@ You can use nginx\_app.conf and apache2_app.conf to add additional directives to
 
 ### Composer
 
-With composer.json, you can set a specific PHP runtime, and add PHP modules. See [PHP runtimes](https://devcenter.heroku.com/articles/php-support#php-runtimes) and [PHP extensions](https://devcenter.heroku.com/articles/php-support#extensions).
+With `composer.json`, you can set a specific PHP runtime, and add PHP modules. See [PHP runtimes](https://devcenter.heroku.com/articles/php-support#php-runtimes) and [PHP extensions](https://devcenter.heroku.com/articles/php-support#extensions).
 
 ### PHP Directives
 
