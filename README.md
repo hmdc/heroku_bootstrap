@@ -39,7 +39,7 @@ With `composer.json`, you can set a specific PHP runtime, and add PHP modules. S
 
 ### PHP Directives
 
-You can override php.ini variables in the file `www/.user.ini`. See [PHP settings](https://devcenter.heroku.com/articles/custom-php-settings#php-runtime-settings] and [http://php.net/manual/en/ini.list.php).
+You can override php.ini variables in the file `www/.user.ini`. See [PHP settings](https://devcenter.heroku.com/articles/custom-php-settings#php-runtime-settings) and (http://php.net/manual/en/ini.list.php).
 
 ### FPM
 
